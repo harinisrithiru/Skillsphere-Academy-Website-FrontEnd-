@@ -2,8 +2,8 @@
 SkillSphere Academy is a responsive educational and training website designed to provide information about courses, internships, registration, and contact details. The project focuses on building a clean and user-friendly UI for an academy platform.
 This version is deployed using GitHub Pages as a frontend-only website, meaning it runs without a backend server.
 
-🚀 Live Demo
-👉 
+🚀 Website Link:
+👉 https://harinisrithiru.github.io/Skillsphere-Academy-Website-FrontEnd-/
 
 🛠 Tech Stack
 HTML
